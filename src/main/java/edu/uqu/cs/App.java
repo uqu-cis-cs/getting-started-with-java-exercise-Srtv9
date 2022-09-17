@@ -16,5 +16,6 @@ public class App
     private static void main( String[] args )
     {
         System.out.println( "Hello <Bandr Alzhrani>, <443002839>" );
+        System.out.println("hello from other side (:")
     }
 }
